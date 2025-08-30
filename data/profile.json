@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Luana Mattana Damin",
+  "photo": "https://avatars.githubusercontent.com/u/140984988?s=400&u=f5f9e6ef3f1acbae161ba4f0f01fd6f4d8a565e5&v=4",
+  "job": "Freelancer",
+  "location": "Caxias do Sul - RS",
+  "phone": "(16) 99999-1599",
+  "email": "ludamin@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -33,27 +33,27 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Interesse",
+      "Comprometimento",
+      "Bom senso",
       "Trabalho em equipe",
-      "Flexibilidade",
       "Organização"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português BR (nativo)",
+    "Inglês (fluente)",
+    "Espanhol (básico)",
+    "Italiano (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Curso na DIO para a criação de uma Pokedex",
       "url": "https://github.com/RenanJPaula/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "name": "Curso DIO para a criação de uma página de portfolio",
       "url": "https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
     }
@@ -65,13 +65,13 @@
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Front-End Developer / Freelancer",
+      "period": "2024 - até o momento",
+      "description": "Caminho em construção, loading..."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
+      "name": "Enecê 3E Indústria e Comércio de vestuário",
+      "period": "2014 - até o momento",
       "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
   ]
